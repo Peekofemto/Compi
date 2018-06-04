@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Compi
 {
-    class Nodo
+    public struct Nodo
     {
         public string lexema;
         public int token;
